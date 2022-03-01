@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p&display=swap');
+
+body {
+  font-family: 'M PLUS 1p', sans-serif;
+}
+
+h4 {
+  font-family: 'M PLUS 1p', sans-serif;
+}
+
+.navbar-brand {
+  background: url("./image/ffr-logo-only.png") no-repeat left center;
+  background-size: contain;
+  height: 50px;
+  width: 50px;
+}
+
+a{
+  color: rgb(88, 155, 231);
+}
+
+.vh-90{
+  height: 90vh;
+}
+
+main{
+  background-color: #cccccc;
+}
+
+.col-md-3>section{
+  height: 50vh;
+}
