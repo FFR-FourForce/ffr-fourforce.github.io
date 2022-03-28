@@ -30,3 +30,8 @@ main{
 .col-md-3>section{
   height: 50vh;
 }
+
+html {
+    scrollbar-color: #474747 #aaaaaa;
+    scrollbar-width: thin;
+}
