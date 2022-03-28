@@ -25,6 +25,7 @@ a{
 
 main{
   background-color: #cccccc;
+  width: 100%;
 }
 
 .col-md-3>section{
