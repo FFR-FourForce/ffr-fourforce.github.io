@@ -35,3 +35,8 @@ html {
     scrollbar-color: #474747 #aaaaaa;
     scrollbar-width: thin;
 }
+
+.youtube{
+  aspect-ratio: 16/9;
+  width: 100%;
+}
