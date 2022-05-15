@@ -1,0 +1,6 @@
+*.ini
+*.htacess
+*.php
+wp*/
+readme.html
+license.txt
