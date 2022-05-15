@@ -1,5 +1,5 @@
 *.ini
-*.htacess
+*.htaccess
 *.php
 wp*/
 readme.html
