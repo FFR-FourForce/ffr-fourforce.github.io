@@ -1,6 +1,8 @@
 *.ini
 *.htaccess
-*.php
-wp*/
-readme.html
-license.txt
+/blog/*
+!/blog/wp-content/
+/blog/wp-content/*
+!/blog/wp-content/themes
+/blog/wp-content/themes/*
+!/blog/wp-content/themes/ffr-wp-theme

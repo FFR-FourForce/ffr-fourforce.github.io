@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 33.866667 33.866667"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="noimage.svg"
+   inkscape:export-filename="C:\xampp\htdocs\ffr\blog\wp-content\themes\ffr-wp-theme\image\noimage.webp"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#cccccc"
+     bordercolor="#545454"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="true"
+     units="px"
+     width="128px"
+     inkscape:snap-bbox="true"
+     inkscape:snap-nodes="false"
+     inkscape:zoom="3.0003928"
+     inkscape:cx="30.662652"
+     inkscape:cy="47.827071"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5055"
+       spacingx="11.28889"
+       spacingy="11.28889" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 14.075833,16.632884 1.799167,-1.799166 0.965729,0.9525 1.150938,-1.455209 1.838854,2.301875 z m 0.740833,-4.233333 q -0.383646,0 -0.654843,-0.271199 -0.271198,-0.271197 -0.271198,-0.654843 0,-0.383645 0.271198,-0.654843 0.271197,-0.271198 0.654843,-0.271198 0.383646,0 0.654844,0.271198 0.271198,0.271198 0.271198,0.654843 0,0.383646 -0.271198,0.654843 -0.271198,0.271199 -0.654844,0.271199 z m -1.5875,6.482292 q -0.661458,0 -1.124479,-0.463021 -0.463021,-0.463021 -0.463021,-1.124479 V 9.8860095 q 0,-0.6614583 0.463021,-1.1244791 0.463021,-0.4630209 1.124479,-0.4630209 h 7.408335 q 0.661458,0 1.124479,0.4630209 0.463021,0.4630208 0.463021,1.1244791 v 7.4083335 q 0,0.661458 -0.463021,1.124479 -0.463021,0.463021 -1.124479,0.463021 z m 0,-0.79375 h 7.408335 q 0.343958,0 0.568854,-0.231511 0.224896,-0.23151 0.224896,-0.562239 V 9.8860095 q 0,-0.3439583 -0.224896,-0.5688541 -0.224896,-0.2248959 -0.568854,-0.2248959 h -7.408335 q -0.330729,0 -0.562239,0.2248959 -0.231511,0.2248958 -0.231511,0.5688541 v 7.4083335 q 0,0.330729 0.231511,0.562239 0.23151,0.231511 0.562239,0.231511 z"
+       id="path824"
+       style="fill:#9f9f9f;fill-opacity:1;stroke-width:0.264583" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.254px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke-width:0.264583"
+       x="10.047138"
+       y="24.38257"
+       id="text2670"><tspan
+         sodipodi:role="line"
+         id="tspan2668"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777px;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
+         x="10.047138"
+         y="24.38257">No Image</tspan></text>
+  </g>
+</svg>

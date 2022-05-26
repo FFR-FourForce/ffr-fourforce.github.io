@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="79.30452mm"
+   height="73.641785mm"
+   viewBox="0 0 79.30452 73.641785"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="C:\Users\ToYama\source\repos\fft_site\image\logo.png"
+   inkscape:export-xdpi="795.54199"
+   inkscape:export-ydpi="795.54199"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.1871106"
+     inkscape:cx="128.66476"
+     inkscape:cy="177.82908"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2">
+    <rect
+       x="302.51343"
+       y="615.49536"
+       width="116.97452"
+       height="23.241339"
+       id="rect20559" />
+    <rect
+       x="256.96002"
+       y="656.11676"
+       width="75.886993"
+       height="17.4373"
+       id="rect3941" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g28522"
+       transform="translate(-62.459996,-90.102394)">
+      <g
+         id="g13623"
+         style="fill:#000000;fill-opacity:1">
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 77.204547,115.05567 16.61971,-16.677971 1.745094,1.706821 -16.69463,16.68582 z"
+           id="path873"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 94.637241,97.596227 7.478709,-7.493833 24.9322,24.939116 -1.51866,1.54134 -23.21078,-23.192797 -5.960091,5.924294 z"
+           id="path875"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 102.32479,94.966154 22.38418,22.430316 -5.10494,5.11992 -22.399251,-22.44549 z"
+           id="path877"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 96.379661,100.93783 22.417459,22.41118 -16.68232,16.70999 -22.426296,-22.49443 5.131971,-5.13068 21.250835,21.31404 0.8452,-0.86346 -21.268546,-21.22379 4.868008,-4.90532 21.314858,21.34575 0.8172,-0.79837 -21.307186,-21.35778 z"
+           id="path879"
+           sodipodi:nodetypes="ccccccccccccc" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(1.0993626,0,0,0.78368909,-222.16779,-372.13952)"
+         id="text3939"
+         style="font-size:13.3333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP, Normal';letter-spacing:-0.498836px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3941)"
+         x="34.159836"
+         y="0"><tspan
+           x="257.76922"
+           y="669.51715"
+           id="tspan32988"><tspan
+             style="font-family:'M+ 2c';-inkscape-font-specification:'M+ 2c';text-align:center;text-anchor:middle"
+             id="tspan32986">FOUR FORCE
+</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.637999,0,0,0.6047474,-108.25667,-216.6839)"
+         id="text20557"
+         style="font-size:13.3333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP, Normal';letter-spacing:-0.29817px;word-spacing:0px;white-space:pre;shape-inside:url(#rect20559)"><tspan
+           x="302.51367"
+           y="628.89606"
+           id="tspan32990">STUDIOS</tspan></text>
+    </g>
+  </g>
+</svg>

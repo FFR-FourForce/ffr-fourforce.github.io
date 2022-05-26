@@ -1,0 +1,69 @@
+/*
+Theme Name: FFR-FourForceStudio-wp-theme
+*/
+/* この下に通常のcssを書いていく */
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p&display=swap');
+
+body {
+  font-family: 'M PLUS 1p', sans-serif;
+}
+
+h4 {
+  font-family: 'M PLUS 1p', sans-serif;
+}
+
+.navbar-brand {
+  background: url("./image/ffr-logo-only.png") no-repeat left center;
+  background-size: contain;
+  height: 50px;
+  width: 50px;
+}
+
+a{
+  color: #589be7;
+}
+
+.vh-90{
+  height: 90vh;
+}
+
+.col-md-3>section{
+  height: 70%;
+}
+
+html {
+    scrollbar-color: #474747 #aaaaaa;
+    scrollbar-width: thin;
+}
+
+.youtube{
+  aspect-ratio: 16/9;
+  width: 100%;
+}
+
+main{
+  width: 50vw;
+  margin: auto;
+}
+
+img{
+  width:auto;
+  height:auto;
+  max-width:100%;
+  max-height:100%;
+}
+
+/* PC用のCSSはメディアクエリの外に記述する */
+
+@media screen and (max-width: 959px) {
+	/* 959px以下に適用されるCSS（タブレット用） */
+  main{
+    width: 75vw;
+  }
+}
+@media screen and (max-width: 480px) {
+	/* 480px以下に適用されるCSS（スマホ用） */
+  main{
+    width: 98vw;
+  }
+}
