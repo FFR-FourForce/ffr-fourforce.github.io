@@ -27,6 +27,7 @@ a{
   height: 90vh;
 }
 
+
 .col-md-3>section{
   height: 70%;
 }
@@ -44,6 +45,7 @@ html {
 main{
   width: 50vw;
   margin: auto;
+  min-height: 100vh;
 }
 
 img{
