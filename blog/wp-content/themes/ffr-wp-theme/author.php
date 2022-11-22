@@ -12,7 +12,6 @@
                 <?php else: ?>
                     <img src="<?php echo get_template_directory_uri(); ?>/image/noimage.webp" alt="" >
                 <?php endif; ?>
-                <img src="<?php echo get_template_directory_uri(); ?>/image/noimage.webp" alt="" >
                 </div>
                         <div class="col-md-9">
                             <h2><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h2>
